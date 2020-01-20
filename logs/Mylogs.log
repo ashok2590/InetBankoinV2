@@ -1,0 +1,22 @@
+[INFO ] 2020-01-18 14:53:46.575 [main] BaseClass - Url has been keyed
+[FATAL] 2020-01-18 14:53:50.836 [main] TC01_LoginTest_001 - Userid may be wrong, can cause fatal message
+[WARN ] 2020-01-18 14:53:51.042 [main] TC01_LoginTest_001 - Password may be wrong, can cause warning message
+[INFO ] 2020-01-18 14:53:52.629 [main] TC01_LoginTest_001 - Login button has been clicked
+[INFO ] 2020-01-18 14:53:52.641 [main] TC01_LoginTest_001 - Validation passed
+[INFO ] 2020-01-18 14:53:53.713 [main] TC01_LoginTest_001 - logged out from the application
+[INFO ] 2020-01-18 14:53:53.731 [main] TC01_LoginTest_001 - Selecting the logoff alert msg
+[INFO ] 2020-01-18 14:53:55.586 [main] TC02_LoginDDT_002 - username is provided
+[INFO ] 2020-01-18 14:53:55.721 [main] TC02_LoginDDT_002 - Password is provided
+[INFO ] 2020-01-18 14:53:57.131 [main] TC02_LoginDDT_002 - Login successful
+[INFO ] 2020-01-18 14:53:59.479 [main] TC02_LoginDDT_002 - username is provided
+[INFO ] 2020-01-18 14:53:59.606 [main] TC02_LoginDDT_002 - Password is provided
+[WARN ] 2020-01-18 14:54:00.061 [main] TC02_LoginDDT_002 - login failed
+[INFO ] 2020-01-18 14:54:01.963 [main] TC02_LoginDDT_002 - username is provided
+[INFO ] 2020-01-18 14:54:02.108 [main] TC02_LoginDDT_002 - Password is provided
+[INFO ] 2020-01-18 14:54:03.469 [main] TC02_LoginDDT_002 - Login successful
+[INFO ] 2020-01-18 14:54:05.907 [main] TC02_LoginDDT_002 - username is provided
+[INFO ] 2020-01-18 14:54:06.016 [main] TC02_LoginDDT_002 - Password is provided
+[WARN ] 2020-01-18 14:54:06.475 [main] TC02_LoginDDT_002 - login failed
+[INFO ] 2020-01-18 14:54:08.367 [main] TC02_LoginDDT_002 - username is provided
+[INFO ] 2020-01-18 14:54:08.457 [main] TC02_LoginDDT_002 - Password is provided
+[WARN ] 2020-01-18 14:54:08.941 [main] TC02_LoginDDT_002 - login failed
